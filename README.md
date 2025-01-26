@@ -13,3 +13,4 @@
  <div id="header" align="left">
 
 ### :man_technologist: About me :
+I'm a person who loves to create AI solutions to diverse problems using ML tools.
