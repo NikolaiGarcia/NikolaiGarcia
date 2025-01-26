@@ -13,4 +13,7 @@
  <div id="header" align="left">
 
 ### :man_technologist: About me :
-I'm a person who loves to create AI solutions to diverse problems using ML tools. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+* 👨 I'm a person who loves to create AI solutions to diverse problems using ML tools.
+* 💻 Currently studying a Data Science bootcamp at TripleTen
+* Do you want to contact me? [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolai-garcia-chkourak/)
