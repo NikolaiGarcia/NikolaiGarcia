@@ -32,4 +32,6 @@
     <img decoding="async" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="scikitlearn"/>
     </a>
     <img decoding="async" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="scikitlearn"/>
+    </a>
+    <img decoding="async" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="scikitlearn"/>
 </div>
