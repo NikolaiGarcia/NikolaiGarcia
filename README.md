@@ -18,3 +18,7 @@
 * 💻 Currently studying a Data Science bootcamp at TripleTen
 * Do you want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn:_Nikolai-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolai-garcia-chkourak/)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
