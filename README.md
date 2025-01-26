@@ -16,5 +16,5 @@
 
 * 👨 I'm a person who loves to create AI solutions to diverse problems using ML tools.
 * 💻 Currently studying a Data Science bootcamp at TripleTen
-* Do you want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-Nikolai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikolai-garcia-chkourak/)
+* Do you want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-Nikolai-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nikolai-garcia-chkourak/)
 
